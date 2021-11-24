@@ -1,7 +1,6 @@
 # IdleChampionsModronAI
 An AI developed to optimize modron core layouts for idle champions
-
-This AI was developed to help otimize Modron core layouts
+## **NOTE: THIS IS NOT THE FINAL PRODUCT. IT SILL CONTAINS BUGS. IMPROVEMENTS NEED TO STILL BE MADE**
 
 ![columns](https://user-images.githubusercontent.com/44996531/143289204-073a64ce-63e5-448a-9bac-42f382f568f5.png)
 
