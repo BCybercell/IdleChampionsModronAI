@@ -1,0 +1,8319 @@
+[
+  {
+    "tile_id": 1,
+    "name": "Undirected Straight Component",
+    "rarity": 1,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 1,
+    "properties": ""
+  },
+  {
+    "tile_id": 2,
+    "name": "Undirected Corner Component",
+    "rarity": 1,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 2,
+    "properties": ""
+  },
+  {
+    "tile_id": 3,
+    "name": "Undirected Corner Component",
+    "rarity": 1,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 2,
+    "properties": ""
+  },
+  {
+    "tile_id": 4,
+    "name": "Undirected Straight Component",
+    "rarity": 1,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 1,
+    "properties": ""
+  },
+  {
+    "tile_id": 5,
+    "name": "Undirected Corner Component",
+    "rarity": 1,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 2,
+    "properties": ""
+  },
+  {
+    "tile_id": 6,
+    "name": "Undirected Corner Component",
+    "rarity": 1,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 2,
+    "properties": ""
+  },
+  {
+    "tile_id": 7,
+    "name": "Undirected Straight Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 3,
+    "properties": ""
+  },
+  {
+    "tile_id": 8,
+    "name": "Undirected Corner Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 5,
+    "properties": ""
+  },
+  {
+    "tile_id": 9,
+    "name": "Undirected Corner Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 5,
+    "properties": ""
+  },
+  {
+    "tile_id": 10,
+    "name": "Undirected T Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 7,
+    "properties": ""
+  },
+  {
+    "tile_id": 11,
+    "name": "Undirected T Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 7,
+    "properties": ""
+  },
+  {
+    "tile_id": 12,
+    "name": "Undirected Straight Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 3,
+    "properties": ""
+  },
+  {
+    "tile_id": 13,
+    "name": "Undirected Corner Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 5,
+    "properties": ""
+  },
+  {
+    "tile_id": 14,
+    "name": "Undirected Corner Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 5,
+    "properties": ""
+  },
+  {
+    "tile_id": 15,
+    "name": "Undirected T Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 7,
+    "properties": ""
+  },
+  {
+    "tile_id": 16,
+    "name": "Undirected T Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 7,
+    "properties": ""
+  },
+  {
+    "tile_id": 17,
+    "name": "Directed Straight Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 4,
+    "properties": ""
+  },
+  {
+    "tile_id": 18,
+    "name": "Directed Corner Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 6,
+    "properties": ""
+  },
+  {
+    "tile_id": 19,
+    "name": "Directed Corner Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 6,
+    "properties": ""
+  },
+  {
+    "tile_id": 20,
+    "name": "Directed Straight Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 4,
+    "properties": ""
+  },
+  {
+    "tile_id": 21,
+    "name": "Directed Corner Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 6,
+    "properties": ""
+  },
+  {
+    "tile_id": 22,
+    "name": "Directed Corner Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 6,
+    "properties": ""
+  },
+  {
+    "tile_id": 23,
+    "name": "Directed Corner Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 6,
+    "properties": ""
+  },
+  {
+    "tile_id": 24,
+    "name": "Directed Corner Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 6,
+    "properties": ""
+  },
+  {
+    "tile_id": 25,
+    "name": "Directed Straight Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 4,
+    "properties": ""
+  },
+  {
+    "tile_id": 26,
+    "name": "Directed Straight Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 4,
+    "properties": ""
+  },
+  {
+    "tile_id": 28,
+    "name": "Undirected Straight Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 8,
+    "properties": ""
+  },
+  {
+    "tile_id": 29,
+    "name": "Undirected Corner Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 10,
+    "properties": ""
+  },
+  {
+    "tile_id": 30,
+    "name": "Undirected Corner Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 10,
+    "properties": ""
+  },
+  {
+    "tile_id": 31,
+    "name": "Undirected T Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 12,
+    "properties": ""
+  },
+  {
+    "tile_id": 32,
+    "name": "Undirected T Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 12,
+    "properties": ""
+  },
+  {
+    "tile_id": 33,
+    "name": "Undirected Straight Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 8,
+    "properties": ""
+  },
+  {
+    "tile_id": 34,
+    "name": "Undirected Corner Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 10,
+    "properties": ""
+  },
+  {
+    "tile_id": 35,
+    "name": "Undirected Corner Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 10,
+    "properties": ""
+  },
+  {
+    "tile_id": 36,
+    "name": "Undirected T Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 12,
+    "properties": ""
+  },
+  {
+    "tile_id": 37,
+    "name": "Undirected T Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 12,
+    "properties": ""
+  },
+  {
+    "tile_id": 38,
+    "name": "Directed Straight Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 9,
+    "properties": ""
+  },
+  {
+    "tile_id": 39,
+    "name": "Directed Corner Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 11,
+    "properties": ""
+  },
+  {
+    "tile_id": 40,
+    "name": "Directed Corner Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 11,
+    "properties": ""
+  },
+  {
+    "tile_id": 41,
+    "name": "Directed Straight Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 9,
+    "properties": ""
+  },
+  {
+    "tile_id": 42,
+    "name": "Directed Corner Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 11,
+    "properties": ""
+  },
+  {
+    "tile_id": 43,
+    "name": "Directed Corner Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 11,
+    "properties": ""
+  },
+  {
+    "tile_id": 44,
+    "name": "Directed Corner Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 11,
+    "properties": ""
+  },
+  {
+    "tile_id": 45,
+    "name": "Directed Corner Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 11,
+    "properties": ""
+  },
+  {
+    "tile_id": 46,
+    "name": "Directed Straight Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 9,
+    "properties": ""
+  },
+  {
+    "tile_id": 47,
+    "name": "Directed Straight Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 9,
+    "properties": ""
+  },
+  {
+    "tile_id": 59,
+    "name": "Undirected Cross Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 15,
+    "properties": ""
+  },
+  {
+    "tile_id": 60,
+    "name": "Undirected Straight Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 16,
+    "properties": ""
+  },
+  {
+    "tile_id": 61,
+    "name": "Undirected Corner Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 18,
+    "properties": ""
+  },
+  {
+    "tile_id": 62,
+    "name": "Undirected Corner Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 18,
+    "properties": ""
+  },
+  {
+    "tile_id": 63,
+    "name": "Undirected T Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 20,
+    "properties": ""
+  },
+  {
+    "tile_id": 64,
+    "name": "Undirected T Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 20,
+    "properties": ""
+  },
+  {
+    "tile_id": 65,
+    "name": "Undirected Straight Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 16,
+    "properties": ""
+  },
+  {
+    "tile_id": 66,
+    "name": "Undirected Corner Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 18,
+    "properties": ""
+  },
+  {
+    "tile_id": 67,
+    "name": "Undirected Corner Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 18,
+    "properties": ""
+  },
+  {
+    "tile_id": 68,
+    "name": "Undirected T Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 20,
+    "properties": ""
+  },
+  {
+    "tile_id": 69,
+    "name": "Undirected T Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 20,
+    "properties": ""
+  },
+  {
+    "tile_id": 70,
+    "name": "Directed Straight Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 17,
+    "properties": ""
+  },
+  {
+    "tile_id": 71,
+    "name": "Directed Corner Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 19,
+    "properties": ""
+  },
+  {
+    "tile_id": 72,
+    "name": "Directed Corner Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.400",
+    "order": 19,
+    "properties": ""
+  },
+  {
+    "tile_id": 73,
+    "name": "Directed Straight Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.400",
+    "order": 17,
+    "properties": ""
+  },
+  {
+    "tile_id": 74,
+    "name": "Directed Corner Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 19,
+    "properties": ""
+  },
+  {
+    "tile_id": 75,
+    "name": "Directed Corner Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 19,
+    "properties": ""
+  },
+  {
+    "tile_id": 76,
+    "name": "Directed Corner Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 19,
+    "properties": ""
+  },
+  {
+    "tile_id": 77,
+    "name": "Directed Corner Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 19,
+    "properties": ""
+  },
+  {
+    "tile_id": 78,
+    "name": "Directed Straight Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 17,
+    "properties": ""
+  },
+  {
+    "tile_id": 79,
+    "name": "Directed Straight Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 17,
+    "properties": ""
+  },
+  {
+    "tile_id": 80,
+    "name": "Undirected Cross Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "multiplier": "0.400",
+    "order": 23,
+    "properties": ""
+  },
+  {
+    "tile_id": 91,
+    "name": "Power Generator",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "input_power": 1
+    }
+  },
+  {
+    "tile_id": 92,
+    "name": "Power Generator",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "input_power": 1
+    }
+  },
+  {
+    "tile_id": 93,
+    "name": "Power Generator",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "input_power": 1
+    }
+  },
+  {
+    "tile_id": 94,
+    "name": "Power Generator",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "input_power": 1
+    }
+  },
+  {
+    "tile_id": 96,
+    "name": "Endpoint Component (NOT USED)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "gold_multiplier_mult,20"
+        },
+        {
+          "effect": "gold_multiplier_mult,80"
+        },
+        {
+          "effect": "gold_multiplier_mult,240"
+        },
+        {
+          "effect": "gold_multiplier_mult,480"
+        }
+      ]
+    }
+  },
+  {
+    "tile_id": 97,
+    "name": "Endpoint Component (NOT USED)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "monster_health_reduce,6.25"
+        },
+        {
+          "effect": "monster_health_reduce,12.5"
+        },
+        {
+          "effect": "monster_health_reduce,25"
+        },
+        {
+          "effect": "monster_health_reduce,50"
+        }
+      ]
+    }
+  },
+  {
+    "tile_id": 98,
+    "name": "Endpoint Component (NOT USED)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,50"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,200"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,800"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1600"
+        }
+      ]
+    }
+  },
+  {
+    "tile_id": 99,
+    "name": "Endpoint Component (NOT USED)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "health_mult,10"
+        },
+        {
+          "effect": "health_mult,40"
+        },
+        {
+          "effect": "health_mult,120"
+        },
+        {
+          "effect": "health_mult,240"
+        }
+      ]
+    }
+  },
+  {
+    "tile_id": 100,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 101,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 102,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 103,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 104,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 105,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 106,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 107,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 108,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 109,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 110,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 111,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 112,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 113,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 114,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 115,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 116,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 117,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 118,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 119,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 120,
+    "name": "Directed T Component (1 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.050",
+    "order": 13,
+    "properties": {
+      "multi_input_bonuses": [
+        0.45
+      ]
+    }
+  },
+  {
+    "tile_id": 121,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 122,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 123,
+    "name": "Directed T Component (2 out)",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 14,
+    "properties": ""
+  },
+  {
+    "tile_id": 124,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 125,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 126,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 127,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 128,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 129,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 130,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 131,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 132,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 133,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 134,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 135,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 136,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 137,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 138,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 139,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 140,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 141,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 142,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 143,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 144,
+    "name": "Directed T Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 21,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9
+      ]
+    }
+  },
+  {
+    "tile_id": 145,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 146,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 147,
+    "name": "Directed T Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.400",
+    "order": 22,
+    "properties": ""
+  },
+  {
+    "tile_id": 155,
+    "name": "Directed Cross Component (3 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 26,
+    "properties": ""
+  },
+  {
+    "tile_id": 156,
+    "name": "Directed Cross Component (3 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.400",
+    "order": 26,
+    "properties": ""
+  },
+  {
+    "tile_id": 157,
+    "name": "Directed Cross Component (3 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 26,
+    "properties": ""
+  },
+  {
+    "tile_id": 158,
+    "name": "Directed Cross Component (3 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 26,
+    "properties": ""
+  },
+  {
+    "tile_id": 159,
+    "name": "Directed Cross Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 25,
+    "properties": {
+      "multi_input_bonuses": [
+        1.8
+      ]
+    }
+  },
+  {
+    "tile_id": 160,
+    "name": "Directed Cross Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 25,
+    "properties": {
+      "multi_input_bonuses": [
+        1.8
+      ]
+    }
+  },
+  {
+    "tile_id": 161,
+    "name": "Directed Cross Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 25,
+    "properties": {
+      "multi_input_bonuses": [
+        1.8
+      ]
+    }
+  },
+  {
+    "tile_id": 162,
+    "name": "Directed Cross Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 25,
+    "properties": {
+      "multi_input_bonuses": [
+        1.8
+      ]
+    }
+  },
+  {
+    "tile_id": 163,
+    "name": "Directed Cross Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 25,
+    "properties": {
+      "multi_input_bonuses": [
+        1.8
+      ]
+    }
+  },
+  {
+    "tile_id": 164,
+    "name": "Directed Cross Component (2 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 25,
+    "properties": {
+      "multi_input_bonuses": [
+        1.8
+      ]
+    }
+  },
+  {
+    "tile_id": 165,
+    "name": "Directed Cross Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 24,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9,
+        3.233
+      ]
+    }
+  },
+  {
+    "tile_id": 166,
+    "name": "Directed Cross Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 24,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9,
+        3.233
+      ]
+    }
+  },
+  {
+    "tile_id": 167,
+    "name": "Directed Cross Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 24,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9,
+        3.233
+      ]
+    }
+  },
+  {
+    "tile_id": 168,
+    "name": "Directed Cross Component (1 out)",
+    "rarity": 4,
+    "ports": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 24,
+    "properties": {
+      "multi_input_bonuses": [
+        0.9,
+        3.233
+      ]
+    }
+  },
+  {
+    "tile_id": 169,
+    "name": "Directed Corner Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 170,
+    "name": "Directed Corner Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 171,
+    "name": "Directed Corner Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 172,
+    "name": "Directed Corner Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 173,
+    "name": "Directed Corner Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 174,
+    "name": "Directed Corner Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 175,
+    "name": "Directed Corner Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 176,
+    "name": "Directed Corner Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 177,
+    "name": "Directed Straight Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 178,
+    "name": "Directed Straight Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 179,
+    "name": "Directed Straight Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "1.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 180,
+    "name": "Directed Straight Component (fixed)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": ""
+  },
+  {
+    "tile_id": 181,
+    "name": "Endpoint Component (NOT USED)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "reduce_hero_level_cost,6.25"
+        },
+        {
+          "effect": "reduce_hero_level_cost,12.5"
+        },
+        {
+          "effect": "reduce_hero_level_cost,25"
+        },
+        {
+          "effect": "reduce_hero_level_cost,50"
+        }
+      ]
+    }
+  },
+  {
+    "tile_id": 182,
+    "name": "Straight Automation Component",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "automate": "formation"
+    }
+  },
+  {
+    "tile_id": 183,
+    "name": "Straight Automation Component",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "automate": "reset"
+    }
+  },
+  {
+    "tile_id": 184,
+    "name": "Straight Automation Component",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "automate": "buff"
+    }
+  },
+  {
+    "tile_id": 185,
+    "name": "Endpoint Component (Global 1)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,50"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,200"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,800"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1600"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global1",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 186,
+    "name": "Endpoint Component (Global 1)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,50"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,200"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,800"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1600"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global1",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 187,
+    "name": "Endpoint Component (Global 1)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,50"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,200"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,800"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1600"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global1",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 188,
+    "name": "Endpoint Component (Global 1)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,50"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,200"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,800"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1600"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global1",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 189,
+    "name": "Endpoint Component (Global 2)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,75"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,300"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,900"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1800"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global2",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 190,
+    "name": "Endpoint Component (Global 2)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,75"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,300"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,900"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1800"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global2",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 191,
+    "name": "Endpoint Component (Global 2)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,75"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,300"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,900"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1800"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global2",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 192,
+    "name": "Endpoint Component (Global 2)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,75"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,300"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,900"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1800"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global2",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 193,
+    "name": "Endpoint Component (Global 3)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,100"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,400"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1200"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,2400"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global3",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 194,
+    "name": "Endpoint Component (Global 3)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,100"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,400"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1200"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,2400"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global3",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 195,
+    "name": "Endpoint Component (Global 3)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,100"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,400"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1200"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,2400"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global3",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 196,
+    "name": "Endpoint Component (Global 3)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "global_dps_multiplier_mult,100"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,400"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,1200"
+        },
+        {
+          "effect": "global_dps_multiplier_mult,2400"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Global3",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 197,
+    "name": "Endpoint Component (Gold 1)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "gold_multiplier_mult,20"
+        },
+        {
+          "effect": "gold_multiplier_mult,80"
+        },
+        {
+          "effect": "gold_multiplier_mult,240"
+        },
+        {
+          "effect": "gold_multiplier_mult,480"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Gold1"
+    }
+  },
+  {
+    "tile_id": 198,
+    "name": "Endpoint Component (Gold 1)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "gold_multiplier_mult,20"
+        },
+        {
+          "effect": "gold_multiplier_mult,80"
+        },
+        {
+          "effect": "gold_multiplier_mult,240"
+        },
+        {
+          "effect": "gold_multiplier_mult,480"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Gold1"
+    }
+  },
+  {
+    "tile_id": 199,
+    "name": "Endpoint Component (Gold 1)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "gold_multiplier_mult,20"
+        },
+        {
+          "effect": "gold_multiplier_mult,80"
+        },
+        {
+          "effect": "gold_multiplier_mult,240"
+        },
+        {
+          "effect": "gold_multiplier_mult,480"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Gold1"
+    }
+  },
+  {
+    "tile_id": 200,
+    "name": "Endpoint Component (Gold 1)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "gold_multiplier_mult,20"
+        },
+        {
+          "effect": "gold_multiplier_mult,80"
+        },
+        {
+          "effect": "gold_multiplier_mult,240"
+        },
+        {
+          "effect": "gold_multiplier_mult,480"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Gold1"
+    }
+  },
+  {
+    "tile_id": 201,
+    "name": "Endpoint Component (Gold 2)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "gold_multiplier_mult,40"
+        },
+        {
+          "effect": "gold_multiplier_mult,160"
+        },
+        {
+          "effect": "gold_multiplier_mult,480"
+        },
+        {
+          "effect": "gold_multiplier_mult,960"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Gold2"
+    }
+  },
+  {
+    "tile_id": 202,
+    "name": "Endpoint Component (Gold 2)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "gold_multiplier_mult,40"
+        },
+        {
+          "effect": "gold_multiplier_mult,160"
+        },
+        {
+          "effect": "gold_multiplier_mult,480"
+        },
+        {
+          "effect": "gold_multiplier_mult,960"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Gold2"
+    }
+  },
+  {
+    "tile_id": 203,
+    "name": "Endpoint Component (Gold 2)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "gold_multiplier_mult,40"
+        },
+        {
+          "effect": "gold_multiplier_mult,160"
+        },
+        {
+          "effect": "gold_multiplier_mult,480"
+        },
+        {
+          "effect": "gold_multiplier_mult,960"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Gold2"
+    }
+  },
+  {
+    "tile_id": 204,
+    "name": "Endpoint Component (Gold 2)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "gold_multiplier_mult,40"
+        },
+        {
+          "effect": "gold_multiplier_mult,160"
+        },
+        {
+          "effect": "gold_multiplier_mult,480"
+        },
+        {
+          "effect": "gold_multiplier_mult,960"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Gold2"
+    }
+  },
+  {
+    "tile_id": 205,
+    "name": "Endpoint Component (Health 1)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "health_mult,10"
+        },
+        {
+          "effect": "health_mult,40"
+        },
+        {
+          "effect": "health_mult,120"
+        },
+        {
+          "effect": "health_mult,240"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Health1"
+    }
+  },
+  {
+    "tile_id": 206,
+    "name": "Endpoint Component (Health 1)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "health_mult,10"
+        },
+        {
+          "effect": "health_mult,40"
+        },
+        {
+          "effect": "health_mult,120"
+        },
+        {
+          "effect": "health_mult,240"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Health1"
+    }
+  },
+  {
+    "tile_id": 207,
+    "name": "Endpoint Component (Health 1)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "health_mult,10"
+        },
+        {
+          "effect": "health_mult,40"
+        },
+        {
+          "effect": "health_mult,120"
+        },
+        {
+          "effect": "health_mult,240"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Health1"
+    }
+  },
+  {
+    "tile_id": 208,
+    "name": "Endpoint Component (Health 1)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "health_mult,10"
+        },
+        {
+          "effect": "health_mult,40"
+        },
+        {
+          "effect": "health_mult,120"
+        },
+        {
+          "effect": "health_mult,240"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Health1"
+    }
+  },
+  {
+    "tile_id": 209,
+    "name": "Endpoint Component (Health 2)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "health_mult,20"
+        },
+        {
+          "effect": "health_mult,80"
+        },
+        {
+          "effect": "health_mult,240"
+        },
+        {
+          "effect": "health_mult,480"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Health2"
+    }
+  },
+  {
+    "tile_id": 210,
+    "name": "Endpoint Component (Health 2)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "health_mult,20"
+        },
+        {
+          "effect": "health_mult,80"
+        },
+        {
+          "effect": "health_mult,240"
+        },
+        {
+          "effect": "health_mult,480"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Health2"
+    }
+  },
+  {
+    "tile_id": 211,
+    "name": "Endpoint Component (Health 2)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "health_mult,20"
+        },
+        {
+          "effect": "health_mult,80"
+        },
+        {
+          "effect": "health_mult,240"
+        },
+        {
+          "effect": "health_mult,480"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Health2"
+    }
+  },
+  {
+    "tile_id": 212,
+    "name": "Endpoint Component (Health 2)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "health_mult,20"
+        },
+        {
+          "effect": "health_mult,80"
+        },
+        {
+          "effect": "health_mult,240"
+        },
+        {
+          "effect": "health_mult,480"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Health2"
+    }
+  },
+  {
+    "tile_id": 213,
+    "name": "Endpoint Component (CON13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Con",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 214,
+    "name": "Endpoint Component (CON13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Con",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 215,
+    "name": "Endpoint Component (CON13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Con",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 216,
+    "name": "Endpoint Component (CON13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "con",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CON score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_Con",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 217,
+    "name": "Endpoint Component (STR13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_STR",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 218,
+    "name": "Endpoint Component (STR13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_STR",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 219,
+    "name": "Endpoint Component (STR13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_STR",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 220,
+    "name": "Endpoint Component (STR13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "str",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a STR score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_STR",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 221,
+    "name": "Endpoint Component (DEX13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_DEX",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 222,
+    "name": "Endpoint Component (DEX13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_DEX",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 223,
+    "name": "Endpoint Component (DEX13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_DEX",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 224,
+    "name": "Endpoint Component (DEX13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "dex",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a DEX score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_DEX",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 225,
+    "name": "Endpoint Component (INT13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_INT",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 226,
+    "name": "Endpoint Component (INT13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_INT",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 227,
+    "name": "Endpoint Component (INT13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_INT",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 228,
+    "name": "Endpoint Component (INT13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "int",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a INT score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_INT",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 229,
+    "name": "Endpoint Component (WIS13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_WIS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 230,
+    "name": "Endpoint Component (WIS13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_WIS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 231,
+    "name": "Endpoint Component (WIS13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_WIS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 232,
+    "name": "Endpoint Component (WIS13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "wis",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a WIS score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_WIS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 233,
+    "name": "Endpoint Component (CHA13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_CHA",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 234,
+    "name": "Endpoint Component (CHA13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_CHA",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 235,
+    "name": "Endpoint Component (CHA13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_CHA",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 236,
+    "name": "Endpoint Component (CHA13+ DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        },
+        {
+          "effect": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "stat_score",
+              "stat": "cha",
+              "score": 13,
+              "check": ">="
+            }
+          ],
+          "override_key_desc": "Increases the damage of all champions with a CHA score of 13 or greater by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_CHA",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 237,
+    "name": "Endpoint Component (Melee DPS)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MeleeDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 238,
+    "name": "Endpoint Component (Melee DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MeleeDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 239,
+    "name": "Endpoint Component (Melee DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MeleeDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 240,
+    "name": "Endpoint Component (Melee DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "melee"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with melee base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MeleeDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 241,
+    "name": "Endpoint Component (Ranged DPS)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_RangeDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 242,
+    "name": "Endpoint Component (Ranged DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_RangeDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 243,
+    "name": "Endpoint Component (Ranged DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_RangeDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 244,
+    "name": "Endpoint Component (Ranged DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with ranged base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_RangeDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 245,
+    "name": "Endpoint Component (Magic DPS)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MagicDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 246,
+    "name": "Endpoint Component (Magic DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MagicDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 247,
+    "name": "Endpoint Component (Magic DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MagicDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 248,
+    "name": "Endpoint Component (Magic DPS)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect_string": "hero_dps_multiplier_mult,100",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,1200",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        },
+        {
+          "effect_string": "hero_dps_multiplier_mult,2400",
+          "targets": [
+            "all"
+          ],
+          "filter_targets": [
+            {
+              "type": "attack_type",
+              "attack": "ranged"
+            }
+          ],
+          "override_key_desc": "Increase the damage of all champions with magic base attacks by $amount%"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MagicDPS",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 249,
+    "name": "Straight Automation Component",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "automations": [
+        "buff",
+        "reset",
+        "formation"
+      ]
+    }
+  },
+  {
+    "tile_id": 250,
+    "name": "Straight Automation Component",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "automations": [
+        "buff",
+        "reset",
+        "formation"
+      ]
+    }
+  },
+  {
+    "tile_id": 251,
+    "name": "Endpoint Component (Monster HP)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "proper_tiers": [
+        {
+          "effect": "monster_health_reduce,50"
+        },
+        {
+          "effect": "monster_health_reduce,75"
+        },
+        {
+          "effect": "monster_health_reduce,88"
+        },
+        {
+          "effect": "monster_health_reduce,94"
+        }
+      ],
+      "tiers": [
+        {
+          "effect": "monster_health_reduce,50"
+        },
+        {
+          "effect": "monster_health_reduce,75"
+        },
+        {
+          "effect": "monster_health_reduce,88"
+        },
+        {
+          "effect": "monster_health_reduce,94"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MonsterNerf",
+      "allow_modron_buff": false
+    }
+  },
+  {
+    "tile_id": 252,
+    "name": "Endpoint Component (Monster HP)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "proper_tiers": [
+        {
+          "effect": "monster_health_reduce,50"
+        },
+        {
+          "effect": "monster_health_reduce,75"
+        },
+        {
+          "effect": "monster_health_reduce,88"
+        },
+        {
+          "effect": "monster_health_reduce,94"
+        }
+      ],
+      "tiers": [
+        {
+          "effect": "monster_health_reduce,50"
+        },
+        {
+          "effect": "monster_health_reduce,75"
+        },
+        {
+          "effect": "monster_health_reduce,88"
+        },
+        {
+          "effect": "monster_health_reduce,94"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MonsterNerf",
+      "allow_modron_buff": false
+    }
+  },
+  {
+    "tile_id": 253,
+    "name": "Endpoint Component (Monster HP)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "proper_tiers": [
+        {
+          "effect": "monster_health_reduce,50"
+        },
+        {
+          "effect": "monster_health_reduce,75"
+        },
+        {
+          "effect": "monster_health_reduce,88"
+        },
+        {
+          "effect": "monster_health_reduce,94"
+        }
+      ],
+      "tiers": [
+        {
+          "effect": "monster_health_reduce,50"
+        },
+        {
+          "effect": "monster_health_reduce,75"
+        },
+        {
+          "effect": "monster_health_reduce,88"
+        },
+        {
+          "effect": "monster_health_reduce,94"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MonsterNerf",
+      "allow_modron_buff": false
+    }
+  },
+  {
+    "tile_id": 254,
+    "name": "Endpoint Component (Monster HP)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "proper_tiers": [
+        {
+          "effect": "monster_health_reduce,50"
+        },
+        {
+          "effect": "monster_health_reduce,75"
+        },
+        {
+          "effect": "monster_health_reduce,88"
+        },
+        {
+          "effect": "monster_health_reduce,94"
+        }
+      ],
+      "tiers": [
+        {
+          "effect": "monster_health_reduce,50"
+        },
+        {
+          "effect": "monster_health_reduce,75"
+        },
+        {
+          "effect": "monster_health_reduce,88"
+        },
+        {
+          "effect": "monster_health_reduce,94"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MonsterNerf",
+      "allow_modron_buff": false
+    }
+  },
+  {
+    "tile_id": 255,
+    "name": "Endpoint Component (Level Cost)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "proper_tiers": [
+        {
+          "effect": "reduce_hero_level_cost,50"
+        },
+        {
+          "effect": "reduce_hero_level_cost,75"
+        },
+        {
+          "effect": "reduce_hero_level_cost,88"
+        },
+        {
+          "effect": "reduce_hero_level_cost,94"
+        }
+      ],
+      "tiers": [
+        {
+          "effect": "reduce_hero_level_cost,50"
+        },
+        {
+          "effect": "reduce_hero_level_cost,75"
+        },
+        {
+          "effect": "reduce_hero_level_cost,88"
+        },
+        {
+          "effect": "reduce_hero_level_cost,94"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_LevelNerf",
+      "allow_modron_buff": false
+    }
+  },
+  {
+    "tile_id": 256,
+    "name": "Endpoint Component (Level Cost)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "proper_tiers": [
+        {
+          "effect": "reduce_hero_level_cost,50"
+        },
+        {
+          "effect": "reduce_hero_level_cost,75"
+        },
+        {
+          "effect": "reduce_hero_level_cost,88"
+        },
+        {
+          "effect": "reduce_hero_level_cost,94"
+        }
+      ],
+      "tiers": [
+        {
+          "effect": "reduce_hero_level_cost,50"
+        },
+        {
+          "effect": "reduce_hero_level_cost,75"
+        },
+        {
+          "effect": "reduce_hero_level_cost,88"
+        },
+        {
+          "effect": "reduce_hero_level_cost,94"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_LevelNerf",
+      "allow_modron_buff": false
+    }
+  },
+  {
+    "tile_id": 257,
+    "name": "Endpoint Component (Level Cost)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "proper_tiers": [
+        {
+          "effect": "reduce_hero_level_cost,50"
+        },
+        {
+          "effect": "reduce_hero_level_cost,75"
+        },
+        {
+          "effect": "reduce_hero_level_cost,88"
+        },
+        {
+          "effect": "reduce_hero_level_cost,94"
+        }
+      ],
+      "tiers": [
+        {
+          "effect": "reduce_hero_level_cost,50"
+        },
+        {
+          "effect": "reduce_hero_level_cost,75"
+        },
+        {
+          "effect": "reduce_hero_level_cost,88"
+        },
+        {
+          "effect": "reduce_hero_level_cost,94"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_LevelNerf",
+      "allow_modron_buff": false
+    }
+  },
+  {
+    "tile_id": 258,
+    "name": "Endpoint Component (Level Cost)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "proper_tiers": [
+        {
+          "effect": "reduce_hero_level_cost,50"
+        },
+        {
+          "effect": "reduce_hero_level_cost,75"
+        },
+        {
+          "effect": "reduce_hero_level_cost,88"
+        },
+        {
+          "effect": "reduce_hero_level_cost,94"
+        }
+      ],
+      "tiers": [
+        {
+          "effect": "reduce_hero_level_cost,50"
+        },
+        {
+          "effect": "reduce_hero_level_cost,75"
+        },
+        {
+          "effect": "reduce_hero_level_cost,88"
+        },
+        {
+          "effect": "reduce_hero_level_cost,94"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_LevelNerf",
+      "allow_modron_buff": false
+    }
+  },
+  {
+    "tile_id": 259,
+    "name": "Directed Corner Component",
+    "rarity": 2,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.100",
+    "order": 6,
+    "properties": ""
+  },
+  {
+    "tile_id": 260,
+    "name": "Directed Corner Component",
+    "rarity": 2,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.100",
+    "order": 6,
+    "properties": ""
+  },
+  {
+    "tile_id": 261,
+    "name": "Directed Corner Component",
+    "rarity": 3,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.200",
+    "order": 11,
+    "properties": ""
+  },
+  {
+    "tile_id": 262,
+    "name": "Directed Corner Component",
+    "rarity": 3,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.200",
+    "order": 11,
+    "properties": ""
+  },
+  {
+    "tile_id": 263,
+    "name": "Directed Corner Component",
+    "rarity": 4,
+    "ports": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.400",
+    "order": 19,
+    "properties": ""
+  },
+  {
+    "tile_id": 264,
+    "name": "Directed Corner Component",
+    "rarity": 4,
+    "ports": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.400",
+    "order": 19,
+    "properties": ""
+  },
+  {
+    "tile_id": 265,
+    "name": "Endpoint Component (Monster Spawn Speed)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "increase_monster_spawn_time_mult,6"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,12"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,25"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,50"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MonsterSpawnTime",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 266,
+    "name": "Endpoint Component (Monster Spawn Speed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "increase_monster_spawn_time_mult,6"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,12"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,25"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,50"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MonsterSpawnTime",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 267,
+    "name": "Endpoint Component (Monster Spawn Speed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "increase_monster_spawn_time_mult,6"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,12"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,25"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,50"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MonsterSpawnTime",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 268,
+    "name": "Endpoint Component (Monster Spawn Speed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "increase_monster_spawn_time_mult,6"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,12"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,25"
+        },
+        {
+          "effect": "increase_monster_spawn_time_mult,50"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_MonsterSpawnTime",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 269,
+    "name": "Endpoint Component (Game Speed)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "time_scale,1.06"
+        },
+        {
+          "effect": "time_scale,1.12"
+        },
+        {
+          "effect": "time_scale,1.25"
+        },
+        {
+          "effect": "time_scale,1.50"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_GameSpeed",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 270,
+    "name": "Endpoint Component (Game Speed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "time_scale,1.06"
+        },
+        {
+          "effect": "time_scale,1.12"
+        },
+        {
+          "effect": "time_scale,1.25"
+        },
+        {
+          "effect": "time_scale,1.50"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_GameSpeed",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 271,
+    "name": "Endpoint Component (Game Speed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "time_scale,1.06"
+        },
+        {
+          "effect": "time_scale,1.12"
+        },
+        {
+          "effect": "time_scale,1.25"
+        },
+        {
+          "effect": "time_scale,1.50"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_GameSpeed",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 272,
+    "name": "Endpoint Component (Game Speed)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "time_scale,1.06"
+        },
+        {
+          "effect": "time_scale,1.12"
+        },
+        {
+          "effect": "time_scale,1.25"
+        },
+        {
+          "effect": "time_scale,1.50"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_GameSpeed",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 273,
+    "name": "Endpoint Component (Quest Drops Bonus)",
+    "rarity": 9,
+    "ports": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "chance_multiply_monster_quest_rewards,6,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,12,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,25,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,50,2"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_QuestDrops",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 274,
+    "name": "Endpoint Component (Quest Drops Bonus)",
+    "rarity": 9,
+    "ports": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "ports_input": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "chance_multiply_monster_quest_rewards,6,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,12,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,25,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,50,2"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_QuestDrops",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 275,
+    "name": "Endpoint Component (Quest Drops Bonus)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ports_input": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "chance_multiply_monster_quest_rewards,6,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,12,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,25,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,50,2"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_QuestDrops",
+      "allow_overcharge": true
+    }
+  },
+  {
+    "tile_id": 276,
+    "name": "Endpoint Component (Quest Drops Bonus)",
+    "rarity": 9,
+    "ports": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "ports_input": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "multiplier": "0.000",
+    "order": 0,
+    "properties": {
+      "tiers": [
+        {
+          "effect": "chance_multiply_monster_quest_rewards,6,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,12,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,25,2"
+        },
+        {
+          "effect": "chance_multiply_monster_quest_rewards,50,2"
+        }
+      ],
+      "graphic_name": "ModronAuto_Icon_QuestDrops",
+      "allow_overcharge": true
+    }
+  }
+]
