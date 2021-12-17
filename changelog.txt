@@ -1,0 +1,8 @@
+Modron AI v0.2
+
+Strength calculation fix
+Small speed improvement
+Made a logical fix to looping that prevented more elaborate piping
+Fixed strength splitting not splitting for pipe parts that don't connect to other pipes
+Added json formatting (in progress)
+Fixed undirected piped taking multiple inputs, this should not happen
