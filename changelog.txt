@@ -1,3 +1,7 @@
+Modron AI v0.3
+
+Fixed time acceleration output causing AI to crash
+================================
 Modron AI v0.2
 
 Strength calculation fix
