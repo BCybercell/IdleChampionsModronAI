@@ -19,5 +19,5 @@ DNA - This relates to the ids in the pipe.csv file
 
 DNA (pipe ids) - This is a list of actual pipe ids starting from left to right on the core
 
-
+###**Needs jdk 17.0.1 or higher to run compiled version**
 
