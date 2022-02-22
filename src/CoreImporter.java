@@ -5,9 +5,7 @@ import org.json.simple.parser.ParseException;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class CoreImporter {
     private static ArrayList<ModronTile> modronTiles;
@@ -18,6 +16,7 @@ public class CoreImporter {
     private static String instanceKey = "";
     static ArrayList<Integer> levels;
     static ArrayList<Integer> xpAmounts;
+    static JSONArray ownedTiles = new JSONArray();
     public CoreImporter(){
 
     }
@@ -147,6 +146,7 @@ public class CoreImporter {
             JSONObject modron_saves = (JSONObject) details.get("modron_saves");
 
             JSONArray tiles = (JSONArray) details.get("tiles");
+            ownedTiles = tiles;
             userPipes = new ArrayList<>();
             for (Object o : tiles)
             {

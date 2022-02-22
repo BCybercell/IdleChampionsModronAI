@@ -3,7 +3,7 @@ An AI developed to optimize modron core layouts for idle champions\
 
 The latest version can be found at https://github.com/BCybercell/IdleChampionsModronAI/
 
-Export.json contains a more user-friendly output of all 3 cores similar to what the game does. This will be formatted in a way that can be uploaded to https://ic.byteglow.com once import functionality is added to the site
+Exports (1.json, 2.json, 3.json) can be imported using https://ic.byteglow.com for a user-friendly output.
 
 ![columns](https://user-images.githubusercontent.com/44996531/143289204-073a64ce-63e5-448a-9bac-42f382f568f5.png)
 

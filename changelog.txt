@@ -1,3 +1,7 @@
+Modron AI v1.1
+
+Exports split up and formatted to be imported by https://ic.byteglow.com
+================================
 Modron AI v1.0
 
 Code added for public use/ modification

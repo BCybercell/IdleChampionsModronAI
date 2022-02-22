@@ -5,9 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Random;
+import java.util.*;
 
 public class GeneticAlgorithm {
     private Random randomGenerator;
@@ -309,45 +307,47 @@ public class GeneticAlgorithm {
                     home.appendNewText("Generation " + i + " of " + generations);
                     if (bestIndividual != null)
                     {
-                        JSONObject export = new JSONObject();
                         for (Core core: bestIndividual.cores
                         ) {
+                            JSONObject export = new JSONObject();
                             JSONArray grid = new JSONArray();
                             for (var row: core.cells
                             ) {
-                                JSONArray pipes = new JSONArray();
+                                JSONArray jsonPipes = new JSONArray();
                                 for (var pipe: row
                                 ) {
                                     if (pipe instanceof Pipe){
-                                        pipes.add(((Pipe) pipe).id);
+                                        jsonPipes.add(((Pipe) pipe).id);
                                     }
                                     else
                                     {
-                                        pipes.add(0);
+                                        jsonPipes.add(0);
                                     }
                                 }
-                                grid.add(pipes);
+                                grid.add(jsonPipes);
                             }
+
                             JSONObject coreJson = new JSONObject();
                             coreJson.put("core_id", String.valueOf(core.core_id));
                             coreJson.put("grid", grid);
                             coreJson.put("exp_total", String.valueOf(CoreImporter.xpAmounts.get(core.core_id-1)));
-                            export.put(core.core_id, coreJson);
-                        }
-                        FileWriter file = null;
-                        try {
-                            file = new FileWriter(System.getProperty("user.dir") + "\\Export.json");
-                            file.write(export.toJSONString());
-
-                        } catch (IOException e) {
-                            e.printStackTrace();
-
-                        }finally {
+                            export.put("core", coreJson);
+                            export.put("ownedTiles", CoreImporter.ownedTiles);
+                            FileWriter file = null;
                             try {
-                                file.flush();
-                                file.close();
+                                file = new FileWriter(System.getProperty("user.dir") + "\\"+core.core_id+".json");
+                                file.write(export.toJSONString());
+
                             } catch (IOException e) {
                                 e.printStackTrace();
+
+                            }finally {
+                                try {
+                                    file.flush();
+                                    file.close();
+                                } catch (IOException e) {
+                                    e.printStackTrace();
+                                }
                             }
                         }
                     }
@@ -356,45 +356,47 @@ public class GeneticAlgorithm {
 
             if (bestIndividual != null)
             {
-                JSONObject export = new JSONObject();
                 for (Core core: bestIndividual.cores
-                     ) {
+                ) {
+                    JSONObject export = new JSONObject();
                     JSONArray grid = new JSONArray();
                     for (var row: core.cells
-                         ) {
-                        JSONArray pipes = new JSONArray();
+                    ) {
+                        JSONArray jsonPipes = new JSONArray();
                         for (var pipe: row
-                             ) {
+                        ) {
                             if (pipe instanceof Pipe){
-                                pipes.add(((Pipe) pipe).id);
+                                jsonPipes.add(((Pipe) pipe).id);
                             }
                             else
                             {
-                                pipes.add(0);
+                                jsonPipes.add(0);
                             }
                         }
-                        grid.add(pipes);
+                        grid.add(jsonPipes);
                     }
+
                     JSONObject coreJson = new JSONObject();
                     coreJson.put("core_id", String.valueOf(core.core_id));
                     coreJson.put("grid", grid);
                     coreJson.put("exp_total", String.valueOf(CoreImporter.xpAmounts.get(core.core_id-1)));
-                    export.put(core.core_id, coreJson);
-                }
-                FileWriter file = null;
-                try {
-                    file = new FileWriter(System.getProperty("user.dir") + "\\Export.json");
-                    file.write(export.toJSONString());
-
-                } catch (IOException e) {
-                    e.printStackTrace();
-
-                }finally {
+                    export.put("core", coreJson);
+                    export.put("ownedTiles", CoreImporter.ownedTiles);
+                    FileWriter file = null;
                     try {
-                        file.flush();
-                        file.close();
+                        file = new FileWriter(System.getProperty("user.dir") + "\\"+core.core_id+".json");
+                        file.write(export.toJSONString());
+
                     } catch (IOException e) {
                         e.printStackTrace();
+
+                    }finally {
+                        try {
+                            file.flush();
+                            file.close();
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
                     }
                 }
                 Logger.Info("Final: ");
