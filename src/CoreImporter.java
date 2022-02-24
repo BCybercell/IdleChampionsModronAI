@@ -47,7 +47,7 @@ public class CoreImporter {
 
     public static void getInstanceID(){
         String objString = HttpsClient.call(
-                "http://ps7.idlechampions.com/~idledragons/post.php?call=getuserdetails&include_free_play_objectives=true&instance_key=1&language_id=1&" +
+                "http://ps12.idlechampions.com/~idledragons/post.php?call=getuserdetails&include_free_play_objectives=true&instance_key=1&language_id=1&" +
                         "user_id=" +
                         userID +
                         "&hash=" +
@@ -63,14 +63,45 @@ public class CoreImporter {
         }
     }
 
-    public static void ImportModronTilesAndCores(int popSize){// + core
+    public static int ImportModronTilesAndCores(int popSize){// + core
+        int toReturn =-1; // -1: failure, 1: success, else: new mobileClientNum
+        int mobileClientVersion =419;
         String objString = HttpsClient.call(
-                "https://ps6.idlechampions.com/~idledragons/post.php?call=getDefinitions&language_id=1&network_id=11&mobile_client_version=410");
+                "https://ps12.idlechampions.com/~idledragons/post.php?call=getDefinitions&language_id=1&network_id=11&mobile_client_version="+mobileClientVersion+"&localization_aware=true&");
         JSONParser parser = new JSONParser();
         try {
             JSONObject parsedObject = (JSONObject) parser.parse(objString);
             modronTiles = new ArrayList<>();
+            if (parsedObject.containsKey("success") && parsedObject.get("success").toString().equals("false"))
+            {
+                if (parsedObject.containsKey("failure_reason") && parsedObject.get("failure_reason").toString().contains("update"))
+                {
+                    int tryCount = 0;
+                    while (tryCount < 10 && parsedObject.containsKey("success") && parsedObject.get("success").toString().equals("false"))
+                    {
+                        tryCount++;
+                        mobileClientVersion++;
+                        objString = HttpsClient.call(
+                                "https://ps12.idlechampions.com/~idledragons/post.php?call=getDefinitions&language_id=1&network_id=11&mobile_client_version="+mobileClientVersion+"&localization_aware=true&");
+                        parsedObject = (JSONObject) parser.parse(objString);
 
+                    }
+                    if (parsedObject.containsKey("success") && parsedObject.get("success").toString().equals("false"))
+                    {
+                        return toReturn;
+                    }
+                    else {
+                        toReturn = mobileClientVersion;
+                    }
+                }
+            }
+            else {
+                toReturn = 1;
+            }
+            /*
+            * Add handler for {"success":false,"failure_reason":"The game client requires an update to continue playing! Note: You may need to COMPLETELY exit Steam and restart it in order to see the update in your Steam library.","error_code":23,"recovery_options":"refresh","processing_time":"0.00001","memory_usage":"2 mb","apc_stats":{"gets":0,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"9":false}}
+            *
+            * */
             JSONArray modron_tile_defines = (JSONArray) parsedObject.get("modron_tile_defines");
             JSONArray modron_core_defines = (JSONArray) parsedObject.get("modron_core_defines");
             for (Object o: modron_tile_defines)
@@ -124,9 +155,11 @@ public class CoreImporter {
                 JSONObject jsonObject = (JSONObject) o;
                 Cache.setCoreJson(Integer.parseInt(jsonObject.get("core_id").toString()),jsonObject,popSize);
             }
+            return toReturn;
         } catch (Exception e) {
             Logger.Error(e.getMessage());
             Logger.Error(Arrays.toString(e.getStackTrace()));
+            return -1;
         }
     }
 

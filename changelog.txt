@@ -1,3 +1,9 @@
+Modron AI v1.2
+
+Added handler for client version not up to date
+Warns user that a new mobile_client_version was used
+Changed servers to ps12
+================================
 Modron AI v1.1
 
 Exports split up and formatted to be imported by https://ic.byteglow.com

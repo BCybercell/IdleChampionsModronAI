@@ -77,9 +77,25 @@ public class Home {
             appendNewText("Imported web request");
             CoreImporter.getInstanceID();
             appendNewText("Found instance ID");
-            CoreImporter.ImportModronTilesAndCores(Integer.parseInt(popSpinner.getValue().toString()));
-            Logger.Success("Base setup done");
-            appendNewText("Base setup done");
+            int success = CoreImporter.ImportModronTilesAndCores(Integer.parseInt(popSpinner.getValue().toString()));
+            if (success == -1)
+            {
+                Logger.Success("Import failed");
+                appendNewText("Import failed");
+                progressBar1.setValue(0);
+                Start.setEnabled(true);
+                return;
+            }
+            else if (success > 1)
+            {
+                Logger.Success("Base setup done with mobile_client_version = " + success);
+                appendNewText("Base setup done with mobile_client_version = " + success);
+            }
+            else
+            {
+                Logger.Success("Base setup done");
+                appendNewText("Base setup done");
+            }
             progressBar1.setValue(50);
             CoreImporter.ImportUserDetails();
             Logger.Success("User setup done");
@@ -92,9 +108,14 @@ public class Home {
             ga.RunLongDNAMultiCore(Integer.parseInt(popSpinner.getValue().toString()),
                     Integer.parseInt(genSpinner.getValue().toString()), CoreImporter.levels, CoreImporter.importedDna);
             progressBar1.setValue(100);
-            appendNewText("Done");
+            if (success > 1 )
+            {
+                appendNewText("Done with mobile_client_version = " + success);
+            }
+            else {
+                appendNewText("Done");
+            }
             Start.setEnabled(true);
-
         }
     }
 }
