@@ -65,7 +65,7 @@ public class CoreImporter {
 
     public static int ImportModronTilesAndCores(int popSize){// + core
         int toReturn =-1; // -1: failure, 1: success, else: new mobileClientNum
-        int mobileClientVersion =419;
+        int mobileClientVersion =432;
         String objString = HttpsClient.call(
                 "https://ps12.idlechampions.com/~idledragons/post.php?call=getDefinitions&language_id=1&network_id=11&mobile_client_version="+mobileClientVersion+"&localization_aware=true&");
         JSONParser parser = new JSONParser();
