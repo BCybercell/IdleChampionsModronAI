@@ -47,7 +47,7 @@ public class CoreImporter {
 
     public static void getInstanceID(){
         String objString = HttpsClient.call(
-                "http://ps12.idlechampions.com/~idledragons/post.php?call=getuserdetails&include_free_play_objectives=true&instance_key=1&language_id=1&" +
+                "http://ps18.idlechampions.com/~idledragons/post.php?call=getuserdetails&include_free_play_objectives=true&instance_key=1&language_id=1&" +
                         "user_id=" +
                         userID +
                         "&hash=" +
@@ -65,9 +65,9 @@ public class CoreImporter {
 
     public static int ImportModronTilesAndCores(int popSize){// + core
         int toReturn =-1; // -1: failure, 1: success, else: new mobileClientNum
-        int mobileClientVersion =432;
+        int mobileClientVersion =590;
         String objString = HttpsClient.call(
-                "https://ps12.idlechampions.com/~idledragons/post.php?call=getDefinitions&language_id=1&network_id=11&mobile_client_version="+mobileClientVersion+"&localization_aware=true&");
+                "https://ps23.idlechampions.com/~idledragons/post.php?call=getDefinitions&language_id=1&network_id=11&mobile_client_version="+mobileClientVersion+"&localization_aware=true&");
         JSONParser parser = new JSONParser();
         try {
             JSONObject parsedObject = (JSONObject) parser.parse(objString);
@@ -82,7 +82,7 @@ public class CoreImporter {
                         tryCount++;
                         mobileClientVersion++;
                         objString = HttpsClient.call(
-                                "https://ps12.idlechampions.com/~idledragons/post.php?call=getDefinitions&language_id=1&network_id=11&mobile_client_version="+mobileClientVersion+"&localization_aware=true&");
+                                "https://ps23.idlechampions.com/~idledragons/post.php?call=getDefinitions&language_id=1&network_id=11&mobile_client_version="+mobileClientVersion+"&localization_aware=true&");
                         parsedObject = (JSONObject) parser.parse(objString);
 
                     }
@@ -165,7 +165,7 @@ public class CoreImporter {
 
     public static void ImportUserDetails(){
         String objString = HttpsClient.call(
-                "https://ps12.idlechampions.com/~idledragons/post.php?call=getuserdetails" +
+                "https://ps18.idlechampions.com/~idledragons/post.php?call=getuserdetails" +
                         "&instance_key=" +
                         instanceKey +
                         "&user_id=" +
